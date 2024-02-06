@@ -9,7 +9,6 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - syllabus.qmd
     - evaluation.qmd
     - seance1.qmd
     - seance2.qmd
