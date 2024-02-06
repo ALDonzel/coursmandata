@@ -1,6 +1,6 @@
 # Programme
 
-1.  Séance 1 : La politique de la donnée en France \*\*fresque\*\*
+1.  Séance 1 : La politique de la donnée en France
 
     1.  Retour sur la notion de donnée
 
@@ -11,12 +11,6 @@
 2.  Séance 2 : Rendre visible l'invisible : apport de la dataviz
 
     1.  Historique de la représentation visuelle
-
-        -    Selon vous : de quand date la première représentation visuelle ?
-
-        -   Les différents types de représentation
-
-        -   Quelques grands noms : Nightingale, DuBois
 
     2.  Le meilleur et le pire (exercice critique)
 
