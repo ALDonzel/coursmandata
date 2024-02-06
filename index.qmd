@@ -1,0 +1,11 @@
+# Préface {.unnumbered}
+
+Ce cours s'inscrit dans le Master Politiques Sociales de l'Université d'Avignon. Il cherche à apporter des réponses aux besoins de professionnalisation et de qualification des cadres du social et du sanitaire & social.
+
+Il s'intitule "Data management et data visualisation". Mais en quoi ces sujets peuvent contribuer à la formation des futur·es cadres et professionnel·les du secteur sanitaire & social ?
+
+Le sujet de la donnée est aujourd'hui omniprésent dans les organisations : elles sont collectées, analysées, observées et elles viennent éclairer, influer, orienter les décisions, tans dans le secteur public que dans le secteur privé.
+
+Comment organiser cette bonne gestion des données et que peut-on en faire sont aujourd'hui des questions importantes et il est nécessaire d'avoir quelques clés de compréhension et d'analyse de données.
+
+Ce cours ne sera pas centré sur la protection des données personnelles, ni sur les données de santé. Il ne sera pas non plus un cours technique sur le code.

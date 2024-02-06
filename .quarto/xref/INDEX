@@ -1,0 +1,38 @@
+{
+  "index.qmd": {
+    "index.html": "52f6f5d3"
+  },
+  "intro.qmd": {
+    "intro.html": "33943a0e"
+  },
+  "summary.qmd": {
+    "summary.html": "04d1c60b"
+  },
+  "references.qmd": {
+    "references.html": "cf5fc10f"
+  },
+  "syllabus.qmd": {
+    "syllabus.html": "c5260c46"
+  },
+  "evaluation.qmd": {
+    "evaluation.html": "bf4f44e4"
+  },
+  "seance1.qmd": {
+    "seance1.html": "d54c2cca"
+  },
+  "seance2.qmd": {
+    "seance2.html": "a9921f25"
+  },
+  "seance3.qmd": {
+    "seance3.html": "03af874d"
+  },
+  "seance4.qmd": {
+    "seance4.html": "21a3c2f7"
+  },
+  "seance5.qmd": {
+    "seance5.html": "ae01820b"
+  },
+  "seance6.qmd": {
+    "seance6.html": "1f05f4c6"
+  }
+}

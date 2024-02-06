@@ -1,0 +1,37 @@
+# Programme
+
+1.  Séance 1 : La politique de la donnée en France \*\*fresque\*\*
+
+    1.  Retour sur la notion de donnée
+
+    2.  Rappels règlementaires
+
+    3.  Les tendances de la politique de la donnée : open data, open gov, règlementation européenne...
+
+2.  Séance 2 : Rendre visible l'invisible : apport de la dataviz
+
+    1.  Historique de la représentation visuelle
+
+        -    Selon vous : de quand date la première représentation visuelle ?
+
+        -   Les différents types de représentation
+
+        -   Quelques grands noms : Nightingale, DuBois
+
+    2.  Le meilleur et le pire (exercice critique)
+
+3.   Séance 3 : Des données au services des politiques publiques
+
+    1.  Panorama du management des données dans le secteur public (en particulier les CD)
+
+    2.  Enjeux du data management
+
+    3.  Cycle de vie des données
+
+    4.  Organisation interne
+
+4.  Séance 4 : Observer, piloter, contrôler
+
+    1.  Exercice critique des politiques publiques pilotées par la donnée
+
+5.  Séance 5 : Restitution des travaux de groupe

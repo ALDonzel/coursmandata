@@ -1,0 +1,31 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Cours management de la donnée"
+  author: "Anne-Laure Donzel"
+  date: "17/10/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - syllabus.qmd
+    - evaluation.qmd
+    - seance1.qmd
+    - seance2.qmd
+    - seance3.qmd
+    - seance4.qmd
+    - seance5.qmd
+    - seance6.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

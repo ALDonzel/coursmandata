@@ -1,0 +1,43 @@
+# Références & bibliographie {.unnumbered}
+
+### Articles de presse, blog...
+
+::: {#refs}
+@dubois2018
+
+@dubois2005
+
+@dubois2009
+
+@guéry2013
+:::
+
+-   Sur le [non recours aux droits](https://blog.landot-avocats.net/2023/08/16/experimentation-territoriale-visant-a-reduire-le-non-recours-aux-droits-sociaux-decret-dapplication-de-lart-133-de-la-loi-3ds-puis-arrete/)
+
+-   RSA : [une politique d'évaluation inspirée du séquençage de l'ADN](http://www.lagazettedescommunes.com/604013/rsa-en-loire-atlantique-une-politique-devaluation-inspiree-du-sequencage-de-ladn/?abo=1)
+
+### Podcast et vidéos
+
+-   [Data Managers](https://podcasts-francais.fr/podcast/data-managers)
+
+-   [DataGen](https://www.datageneration.co/)
+
+-   [Data Viz Today](https://dataviztoday.com/)
+
+-   [Data Broadcast](https://www.youtube.com/channel/UCCM1N0W0Ht3cMj84n_D1d4g)
+
+-   David McCandless, [The Beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
+
+-   Hans Rosling, [Let My Dataset Change Your Mindset](https://www.ted.com/talks/hans_rosling_let_my_dataset_change_your_mindset)
+
+-   Jeanne Pinder, [What if all us Health Care Costs Were Transparent ?](https://www.ted.com/talks/jeanne_pinder_what_if_all_us_health_care_costs_were_transparent?referrer=playlist-making_sense_of_too_much_data&autoplay=true)
+
+-   Anne Milgram, [Why Smart Statistics are the key to Fighting Crime ?](https://www.ted.com/talks/anne_milgram_why_smart_statistics_are_the_key_to_fighting_crime?referrer=playlist-making_sense_of_too_much_data&autoplay=true)
+
+-   Newsletter [FILWD](https://filwd.substack.com/)
+
+-   Site [Information is Beautiful](http://www.informationisbeautiful.net)
+
+-   Chronologie dataviz, cartographie et autres ([Milestones project](https://www.datavis.ca/milestones/))
+
+-   [Cartographie et dataviz historiques](https://www.davidrumsey.com/)

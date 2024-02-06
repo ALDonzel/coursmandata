@@ -1,0 +1,63 @@
+# Séance 2 - Représenter le monde : une longue histoire
+
+## Support cours
+
+![](images/seance2_dataviz_coursUAPV.pdf){fig-align="center"}
+
+## Activités
+
+### Activité 1
+
+A votre avis de quand date la plus ancienne représentation graphique d'un phénomène ?
+
+### Activité 2
+
+Former 4 groupes, chaque groupe va analyser une des datavisualisations qui se trouvent ci-dessous.
+
+Vous allez avoir 45 minutes pour l'analyse, sur les points suivants :
+
+-   Présentez l'auteur·ice de cette datavisualisation ?
+
+-   De quand date cette datavisualisation et dans quel contexte a t elle été créée ?
+
+-   Que cherche à nous dire cette datavisualisation ?
+
+-   Quel est le mode de représentation choisie ?
+
+-   Quelles sont les données d'origine ?
+
+-   Qu'est-ce qui vous interpelle ou étonne ?
+
+Pour cela : complétez, en groupe, le [pad](https://digipad.app/p/619238/1ccf04fb11e13)
+
+1.  Florence Nightingale, Public domain, via Wikimedia Commons : ["Diagram of the causes of mortality in the army in the East" (1858) by Florence Nightingale, a colored pie chart to illustrate causes of death in the British Army](https://upload.wikimedia.org/wikipedia/commons/1/17/Nightingale-mortality.jpg)
+
+    ![](images/Nightingale-mortality.jpg)
+
+2.  W.E.B DuBois, African American Photographs Assembled for 1900 Paris Exposition, Public domain, via Wikimedia Commons : [Graph shows marital status by age of African Americans compared to Germans](https://commons.wikimedia.org/wiki/File:The_Georgia_Negro_LCCN2013650429.jpg)
+
+    ![](images/The_Georgia_Negro_LCCN2013650429.jpg)
+
+3.  John Snow, Public domain, via Wikimedia Commons : [Map of the book "On the Mode of Communication of Cholera" by John Snow, originally published in 1854 by C.F. Cheffins, Lith, Southhampton Buildings, London, England](https://en.wikipedia.org/wiki/File:Snow-cholera-map-1.jpg#/media/File:Snow-cholera-map-1.jpg)![](images/Snow-cholera-map-1.jpg)
+
+4.  Charles Joseph Minard, Public domain, via Wikimedia Commons : [Carte figurative des pertes successives en hommes de l'Armée française dans la campagne de Russie en 1812-1813](https://commons.wikimedia.org/wiki/File:Minard.png#/media/Fichier:Minard.png)
+
+    ![](images/Minard.png)
+
+### Activité 3
+
+En groupe, analisez les visualisations présentes sur le pad, qu'en pensez-vous ?
+
+## Point sur le projet final
+
+Cette semaine vous devez :
+
+-   Avoir constitué votre groupe ✅
+
+-   Avoir trouvé votre sujet ✅
+
+## Ressources
+
+[A brief history of datavisualisation](https://www.youtube.com/watch?v=N00g9Q9stBo)
+
+[Des bonnes et des mauvaises pratiques](https://www.datavis.ca/gallery/)

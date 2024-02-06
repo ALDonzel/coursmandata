@@ -1,0 +1,27 @@
+# Séance 1 - Introduction à la donnée
+
+## Objectifs de la séance
+
+-   Connaître les origines historiques des politiques de la donnée en France
+
+-   Connaître les grands principes de l'ouverture et du partage des données
+
+-   Connaître le cadre juridique de la politique de la donnée
+
+-   Comprendre la place de l'ouverture des données dans la modernisation de l'administration
+
+-   Comprendre les bénéfices du partage de données en s'appropriant des cas d'usages
+
+## Support de la séance
+
+Lien vers la présentation de l'exercice de fresque :
+
+![](images/S%C3%A9ance%201%20-%207%20f%C3%A9vrier%202024.pdf)
+
+Lien vers le livret de synthèse :
+
+![](images/Fresque%20-%20livret.pdf){fig-align="center"}
+
+## Productions
+
+\[A venir après la séance\]

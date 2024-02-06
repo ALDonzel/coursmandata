@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cours management de la donnée",
+    "section": "",
+    "text": "Ce cours s’inscrit dans le Master Politiques Sociales de l’Université d’Avignon. Il cherche à apporter des réponses aux besoins de professionnalisation et de qualification des cadres du social et du sanitaire & social.\nIl s’intitule “Data management et data visualisation”. Mais en quoi ces sujets peuvent contribuer à la formation des futur·es cadres et professionnel·les du secteur sanitaire & social ?\nLe sujet de la donnée est aujourd’hui omniprésent dans les organisations : elles sont collectées, analysées, observées et elles viennent éclairer, influer, orienter les décisions, tans dans le secteur public que dans le secteur privé.\nComment organiser cette bonne gestion des données et que peut-on en faire sont aujourd’hui des questions importantes et il est nécessaire d’avoir quelques clés de compréhension et d’analyse de données.\nCe cours ne sera pas centré sur la protection des données personnelles, ni sur les données de santé. Il ne sera pas non plus un cours technique sur le code."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Programme",
+    "section": "",
+    "text": "1.  Panorama du management des données dans le secteur public (en particulier les CD)\n\n2.  Enjeux du data management\n\n3.  Cycle de vie des données\n\n4.  Organisation interne\n\nSéance 4 : Observer, piloter, contrôler\n\nExercice critique des politiques publiques pilotées par la donnée\n\nSéance 5 : Restitution des travaux de groupe"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Références & bibliographie",
+    "section": "",
+    "text": "Podcast et vidéos\n\nData Managers\nDataGen\nData Viz Today\nData Broadcast\nDavid McCandless, The Beauty of data visualization\nHans Rosling, Let My Dataset Change Your Mindset\nJeanne Pinder, What if all us Health Care Costs Were Transparent ?\nAnne Milgram, Why Smart Statistics are the key to Fighting Crime ?\nNewsletter FILWD\nSite Information is Beautiful\nChronologie dataviz, cartographie et autres (Milestones project)\nCartographie et dataviz historiques"
+  },
+  {
+    "objectID": "references.html#podcast-et-vidéos",
+    "href": "references.html#podcast-et-vidéos",
+    "title": "References",
+    "section": "Podcast et vidéos",
+    "text": "Podcast et vidéos\n\n[Data Managers](https://podcasts-francais.fr/podcast/data-managers)\n[DataGen](https://www.datageneration.co/)\n[Data Viz Today](https://dataviztoday.com/)\n[Data Broadcast](https://www.youtube.com/channel/UCCM1N0W0Ht3cMj84n_D1d4g)\nDavid McCandless, The Beauty of data visualization\nHans Rosling, Let My Dataset Change Your Mindset\nJeanne Pinder, What if all us Health Care Costs Were Transparent ?\nAnne Milgram, Why Smart Statistics are the key to Fighting Crime ?\nhttps://filwd.substack.com/\nhttp://www.informationisbeautiful.net/tag/interactive/\nhttps://www.datavis.ca/milestones/\nhttps://www.davidrumsey.com/"
+  },
+  {
+    "objectID": "evaluation.html",
+    "href": "evaluation.html",
+    "title": "3  Evaluation",
+    "section": "",
+    "text": "Un rendu écrit sous la forme d’une infographie ou affiche (50%) qui fera l’objet d’une présentation orale (25%) et une note sur la participation et l’assiduité (25%).\n\n\nEn groupe de 3 ou 4, vous allez devoir présenter une controverse en l’illustrant avec des données que vous pourrez trouver lors de vos recherches. Le tout sur un sujet concernant les politiques sociales.\nA l’oral :\n\nSur la bonne répartition de votre temps de parole (tous les membres du groupe devront intervenir).\nSur la clarté et la cohérence de votre déroulé.\nSur la formulation de votre controverse.\nSur la façon dont vous éviterez de lire votre affiche : à l’oral, l’affiche sera un support mais vous devrez aller plus loin en proposant une présentation plus exhaustive et plus complète.\nChaque groupe sera aussi noté sur les questions et réactions aux travaux des autres groupes.\nSur votre capacité à faire le lien entre votre controverse et les éléments du cours.\nSur la variété de vos sources.\n\nA l’écrit :\n\nSur votre synthèse du sujet.\nSur la formulation de votre controverse.\nLa forme comptera également mais ce ne sera pas l’élément essentiel (vous n’êtes pas graphiste)."
+  },
+  {
+    "objectID": "evaluation.html#quallez-vous-devoir-faire",
+    "href": "evaluation.html#quallez-vous-devoir-faire",
+    "title": "4  Evaluation",
+    "section": "4.2 Qu’allez vous devoir faire ?",
+    "text": "4.2 Qu’allez vous devoir faire ?\nEn groupe de 3 ou 4, vous allez devoir présenter une controverse en l’illustrant avec des données que vous pourrez trouver lors de vos recherches."
+  },
+  {
+    "objectID": "evaluation.html#cest-quoi-une-controverse",
+    "href": "evaluation.html#cest-quoi-une-controverse",
+    "title": "3  Evaluation",
+    "section": "3.2 C’est quoi une controverse ?",
+    "text": "3.2 C’est quoi une controverse ?\nVous trouverez des exemples là. En quelques mots, vous allez devoir analyser un sujet en tenant compte des différents argumentaires et points de vue qui peuvent exister. Pour qu’il y ait controverse, il faut du débat, des données et des arguments.\nPour cela, vous devrez mobiliser et exploiter des articles de presse, des émissions, des podcasts…\n\n3.2.1 Quels sont les livrables attendus ?\nUn livrable écrit sous la forme d’une affiche ou d’une infographie de synthèse, elle devra contenir les éléments suivants :\n\nLe rappel du titre de votre controverse\nLe contexte : quelle est la controverse ? d’où vient elle ?\nDes chiffres clés (pensez dataviz !)\nLes enjeux (en quoi la controverse est-elle importante ?)\nLa cartographie de la controverse : c’est un point important, c’est le coeur de votre controverse. Sous une forme visuelle (par exemple une mind map), vous devez indiquer qui est pour, qui est contre (il peut s’agir de personnes ou d’organismes) et les liens éventuels entre ces acteurs.\nUne ou plusieurs sections avec : la date, les noms de vos équipiers\n\nLors de la dernière séance, vous présenterez à l’oral cette controverse. Vous devrez à ce moment présenter de façon plus complète votre travail. Par exemple avec :\n\nLes concepts clés (terminologie, schémas)\nDes citations (« verbatims »)\nUne explication méthodologique : comment vous êtes vous réparti le travail ? quelles difficultés avez vous rencontrés ?\nDes remerciements si vous avez réussi à interviewer ou correspondre avec des acteurs.\n\n\n\n3.2.2 Exemples de thématiques\nCe ne sont que des exemples de sujets, vous pouvez en proposer d’autres ! Dans votre questionnement, il devra toujours y avoir une dimension “données”.\n\nLa lutte contre le non recours aux droits\nL’IA au service de la santé\nCentraliser les données de santé : le Health Data Hub\nLes données et l’inclusion numérique\nLes données et la crise COVID\nOuverture des données du secteur sanitaire et social\nL’évaluation des politiques publiques\nIA générative et politique sociale\n\n\n\n3.2.3 Quelques conseils\n\n3.2.3.1 Par où démarrer ?\n\nChoisir un sujet et le formuler comme une question de débat. Par ex., sur la thématique “La lutte contre le non recours aux droits” peut être formulée de la façon suivante : “Les données peuvent-elles aider dans la lutte contre le non recours aux droits ?”.\nRechercher des articles, des émissions sur le sujet, notez bien vos sources.\nTravailler sur le contexte : rechercher des chiffres clés, les grandes dates etc…\n\n\n\n3.2.3.2 Réaliser la cartographie\n\nIdentifier les acteurs et leur positionnement : vous pouvez tenir un fichier avec les acteurs, ses arguments, son type (personne, association, ONG, entreprise…).\nPositionner les acteurs sur la matrice suivante pour vous aider à réaliser la cartographie\nRéaliser votre support visuel\n\n\n\n\n3.2.4 Quelques outils pour vous aider\n- Canva\n- Piktochart\n- Visme\n- Easel.ly\n- Ou un bon vieux Powerpoint"
+  },
+  {
+    "objectID": "seance2.html#activités",
+    "href": "seance2.html#activités",
+    "title": "5  Séance 2 - Représenter le monde : une longue histoire",
+    "section": "5.2 Activités",
+    "text": "5.2 Activités\n\n5.2.1 Activité 1\nA votre avis de quand date la plus ancienne représentation graphique d’un phénomène ?\n\n\n5.2.2 Activité 2\nFormer 4 groupes, chaque groupe va analyser une des datavisualisations qui se trouvent ci-dessous.\nVous allez avoir 45 minutes pour l’analyse, sur les points suivants :\n\nPrésentez l’auteur·ice de cette datavisualisation ?\nDe quand date cette datavisualisation et dans quel contexte a t elle été créée ?\nQue cherche à nous dire cette datavisualisation ?\nQuel est le mode de représentation choisie ?\nQuelles sont les données d’origine ?\nQu’est-ce qui vous interpelle ou étonne ?\n\nPour cela : complétez, en groupe, le pad\n\nFlorence Nightingale, Public domain, via Wikimedia Commons : “Diagram of the causes of mortality in the army in the East” (1858) by Florence Nightingale, a colored pie chart to illustrate causes of death in the British Army\n\nW.E.B DuBois, African American Photographs Assembled for 1900 Paris Exposition, Public domain, via Wikimedia Commons : Graph shows marital status by age of African Americans compared to Germans\n\nJohn Snow, Public domain, via Wikimedia Commons : Map of the book “On the Mode of Communication of Cholera” by John Snow, originally published in 1854 by C.F. Cheffins, Lith, Southhampton Buildings, London, England\nCharles Joseph Minard, Public domain, via Wikimedia Commons : Carte figurative des pertes successives en hommes de l’Armée française dans la campagne de Russie en 1812-1813\n\n\n\n\n5.2.3 Activité 3\nEn groupe, analisez les visualisations présentes sur le pad, qu’en pensez-vous ?"
+  },
+  {
+    "objectID": "seance2.html#ressources",
+    "href": "seance2.html#ressources",
+    "title": "5  Séance 2 - Représenter le monde : une longue histoire",
+    "section": "5.4 Ressources",
+    "text": "5.4 Ressources\nA brief history of datavisualisation\nDes bonnes et des mauvaises pratiques"
+  },
+  {
+    "objectID": "seance1.html",
+    "href": "seance1.html",
+    "title": "4  Séance 1 - Introduction à la donnée",
+    "section": "",
+    "text": "Connaître les origines historiques des politiques de la donnée en France\nConnaître les grands principes de l’ouverture et du partage des données\nConnaître le cadre juridique de la politique de la donnée\nComprendre la place de l’ouverture des données dans la modernisation de l’administration\nComprendre les bénéfices du partage de données en s’appropriant des cas d’usages"
+  },
+  {
+    "objectID": "seance3.html",
+    "href": "seance3.html",
+    "title": "7  Séance 3",
+    "section": "",
+    "text": "https://static1.squarespace.com/static/5502f56fe4b0aa4bfbdae0a8/t/5da3d7f5f30aa07809682abd/1571018743421/deceptive-chi2015.pdf"
+  },
+  {
+    "objectID": "seance1.html#support-de-la-séance",
+    "href": "seance1.html#support-de-la-séance",
+    "title": "4  Séance 1 - Introduction à la donnée",
+    "section": "4.2 Support de la séance",
+    "text": "4.2 Support de la séance\nLien vers la présentation de l’exercice de fresque :\n\nLien vers le livret de synthèse :"
+  },
+  {
+    "objectID": "seance1.html#productions",
+    "href": "seance1.html#productions",
+    "title": "4  Séance 1 - Introduction à la donnée",
+    "section": "4.3 Productions",
+    "text": "4.3 Productions\n[A venir après la séance]"
+  },
+  {
+    "objectID": "seance2.html#point-sur-le-projet-final",
+    "href": "seance2.html#point-sur-le-projet-final",
+    "title": "5  Séance 2 - Représenter le monde : une longue histoire",
+    "section": "5.3 Point sur le projet final",
+    "text": "5.3 Point sur le projet final\nCette semaine vous devez :\n\nAvoir constitué votre groupe ✅\nAvoir trouvé votre sujet ✅"
+  },
+  {
+    "objectID": "seance3.html#activités",
+    "href": "seance3.html#activités",
+    "title": "6  Séance 3",
+    "section": "6.2 Activités",
+    "text": "6.2 Activités"
+  },
+  {
+    "objectID": "seance3.html#ressources",
+    "href": "seance3.html#ressources",
+    "title": "6  Séance 3",
+    "section": "6.3 Ressources",
+    "text": "6.3 Ressources\nhttps://www.resovilles.com/wp-content/uploads/2022/09/Data_et_quartiers-le_livre_blanc-web-19-09-light-1.pdf\nRapport data et territoire"
+  }
+]
