@@ -46,7 +46,7 @@ Pour cela : complétez, en groupe, le [pad](https://digipad.app/p/619238/1ccf04f
 
 ### Activité 3
 
-En groupe, analisez les visualisations présentes sur le pad, qu'en pensez-vous ?
+En groupe, analisez les visualisations présentes sur le [pad](https://digipad.app/p/653309/0c857a0c5c6ab), qu'en pensez-vous ?
 
 ## Point sur le projet final
 
@@ -56,8 +56,12 @@ Cette semaine vous devez :
 
 -   Avoir trouvé votre sujet ✅
 
+Pour la semaine prochaine, vous devrez avoir votre problématique et avoir identifié les premiers acteurs du sujet (ainsi que leur position).
+
 ## Ressources
 
 [A brief history of datavisualisation](https://www.youtube.com/watch?v=N00g9Q9stBo)
 
 [Des bonnes et des mauvaises pratiques](https://www.datavis.ca/gallery/)
+
+[Milestone project](https://www.datavis.ca/milestones/index.php?page=home)

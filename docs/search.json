@@ -11,7 +11,7 @@
     "href": "intro.html",
     "title": "1  Programme",
     "section": "",
-    "text": "1.  Panorama du management des données dans le secteur public (en particulier les CD)\n\n2.  Enjeux du data management\n\n3.  Cycle de vie des données\n\n4.  Organisation interne\n\nSéance 4 : Observer, piloter, contrôler\n\nExercice critique des politiques publiques pilotées par la donnée\n\nSéance 5 : Restitution des travaux de groupe"
+    "text": "Séance 4 : Observer, piloter, contrôler\n\nExercice critique des politiques publiques pilotées par la donnée\n\nSéance 5 : Restitution des travaux de groupe"
   },
   {
     "objectID": "evaluation.html",
@@ -60,28 +60,28 @@
     "href": "seance2.html#point-sur-le-projet-final",
     "title": "4  Séance 2 - Représenter le monde : une longue histoire",
     "section": "4.3 Point sur le projet final",
-    "text": "4.3 Point sur le projet final\nCette semaine vous devez :\n\nAvoir constitué votre groupe ✅\nAvoir trouvé votre sujet ✅"
+    "text": "4.3 Point sur le projet final\nCette semaine vous devez :\n\nAvoir constitué votre groupe ✅\nAvoir trouvé votre sujet ✅\n\nPour la semaine prochaine, vous devrez avoir votre problématique et avoir identifié les premiers acteurs du sujet (ainsi que leur position)."
   },
   {
     "objectID": "seance2.html#ressources",
     "href": "seance2.html#ressources",
     "title": "4  Séance 2 - Représenter le monde : une longue histoire",
     "section": "4.4 Ressources",
-    "text": "4.4 Ressources\nA brief history of datavisualisation\nDes bonnes et des mauvaises pratiques"
+    "text": "4.4 Ressources\nA brief history of datavisualisation\nDes bonnes et des mauvaises pratiques\nMilestone project"
   },
   {
     "objectID": "seance3.html#activités",
     "href": "seance3.html#activités",
-    "title": "6  Séance 3",
-    "section": "6.2 Activités",
-    "text": "6.2 Activités"
+    "title": "5  Séance 3",
+    "section": "5.2 Activités",
+    "text": "5.2 Activités\nExercice cartographie\nhttps://data.opendatasoft.com/explore/dataset/224400028_nb-beneficiaires-revenu-solidarite-active-par-commune%40loireatlantique/table/?disjunctive.libelle&sort=annee\nhttps://datarmor.cotesdarmor.fr/applications/capacite-daccueil-des-assistants-maternels-par-commune-dans-les-cotes-darmor-en-2017"
   },
   {
     "objectID": "seance3.html#ressources",
     "href": "seance3.html#ressources",
-    "title": "6  Séance 3",
-    "section": "6.3 Ressources",
-    "text": "6.3 Ressources\nhttps://www.resovilles.com/wp-content/uploads/2022/09/Data_et_quartiers-le_livre_blanc-web-19-09-light-1.pdf\nRapport data et territoire"
+    "title": "5  Séance 3",
+    "section": "5.3 Ressources",
+    "text": "5.3 Ressources\nhttps://www.canal-u.tv/chaines/inria/desassemblons-le-numerique-episode1-plongee-au-coeur-des-donnees-0\nhttps://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/des-politiques-sociales-plus-efficientes-grace-aux-donnees\nhttps://www.resovilles.com/wp-content/uploads/2022/09/Data_et_quartiers-le_livre_blanc-web-19-09-light-1.pdf\nRapport data et territoire"
   },
   {
     "objectID": "references.html",

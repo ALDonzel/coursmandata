@@ -4,7 +4,17 @@
 
 ## Activités
 
+Exercice cartographie
+
+https://data.opendatasoft.com/explore/dataset/224400028_nb-beneficiaires-revenu-solidarite-active-par-commune%40loireatlantique/table/?disjunctive.libelle&sort=annee
+
+https://datarmor.cotesdarmor.fr/applications/capacite-daccueil-des-assistants-maternels-par-commune-dans-les-cotes-darmor-en-2017
+
 ## Ressources
+
+https://www.canal-u.tv/chaines/inria/desassemblons-le-numerique-episode1-plongee-au-coeur-des-donnees-0
+
+https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/des-politiques-sociales-plus-efficientes-grace-aux-donnees
 
 https://www.resovilles.com/wp-content/uploads/2022/09/Data_et_quartiers-le_livre_blanc-web-19-09-light-1.pdf
 
