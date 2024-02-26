@@ -65,3 +65,5 @@ Pour la semaine prochaine, vous devrez avoir votre problématique et avoir ident
 [Des bonnes et des mauvaises pratiques](https://www.datavis.ca/gallery/)
 
 [Milestone project](https://www.datavis.ca/milestones/index.php?page=home)
+
+[Les corrélations et causalités hasardeuses](https://www.tylervigen.com/spurious-correlations)

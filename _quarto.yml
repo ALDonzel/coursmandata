@@ -15,7 +15,6 @@ book:
     - seance3.qmd
     - seance4.qmd
     - seance5.qmd
-    - seance6.qmd
     - references.qmd
 
 bibliography: references.bib

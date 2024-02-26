@@ -11,14 +11,14 @@
     "href": "intro.html",
     "title": "1  Programme",
     "section": "",
-    "text": "Séance 4 : Observer, piloter, contrôler\n\nExercice critique des politiques publiques pilotées par la donnée\n\nSéance 5 : Restitution des travaux de groupe"
+    "text": "Séance 4 : Observer, piloter, contrôler\n\nPanorama du management des données dans le secteur public (en particulier les CD)\nEnjeux du data management\nCycle de vie des données\nOrganisation interne\nExercice critique des politiques publiques pilotées par la donnée\n\nSéance 5 : Restitution des travaux de groupe"
   },
   {
     "objectID": "evaluation.html",
     "href": "evaluation.html",
     "title": "2  Evaluation",
     "section": "",
-    "text": "Un rendu écrit sous la forme d’une infographie ou affiche (50%) qui fera l’objet d’une présentation orale (25%) et une note sur la participation et l’assiduité (25%).\n\n\nEn groupe de 3 ou 4, vous allez devoir présenter une controverse en l’illustrant avec des données que vous pourrez trouver lors de vos recherches. Le tout sur un sujet concernant les politiques sociales.\nA l’oral :\n\nSur la bonne répartition de votre temps de parole (tous les membres du groupe devront intervenir).\nSur la clarté et la cohérence de votre déroulé.\nSur la formulation de votre controverse.\nSur la façon dont vous éviterez de lire votre affiche : à l’oral, l’affiche sera un support mais vous devrez aller plus loin en proposant une présentation plus exhaustive et plus complète.\nChaque groupe sera aussi noté sur les questions et réactions aux travaux des autres groupes.\nSur votre capacité à faire le lien entre votre controverse et les éléments du cours.\nSur la variété de vos sources.\n\nA l’écrit :\n\nSur votre synthèse du sujet.\nSur la formulation de votre controverse.\nLa forme comptera également mais ce ne sera pas l’élément essentiel (vous n’êtes pas graphiste)."
+    "text": "Un rendu écrit sous la forme d’une infographie ou affiche (50%) qui fera l’objet d’une présentation orale (25%) et une note sur la participation et l’assiduité (25%).\n\n\nEn groupe de 3 ou 4, vous allez devoir présenter une controverse en l’illustrant avec des données que vous pourrez trouver lors de vos recherches. Le tout sur un sujet concernant les politiques sociales.\nRestitution des écrits le 10 mars 2024 (à envoyer par mail)\nOral le 13 mars 2024\nA l’oral :\n\nSur la bonne répartition de votre temps de parole (tous les membres du groupe devront intervenir).\nSur la clarté et la cohérence de votre déroulé.\nSur la formulation de votre controverse.\nSur la façon dont vous éviterez de lire votre affiche : à l’oral, l’affiche sera un support mais vous devrez aller plus loin en proposant une présentation plus exhaustive et plus complète.\nChaque groupe sera aussi noté sur les questions et réactions aux travaux des autres groupes.\nSur votre capacité à faire le lien entre votre controverse et les éléments du cours.\nSur la variété de vos sources.\n\nA l’écrit :\n\nSur votre synthèse du sujet.\nSur la formulation de votre controverse.\nLa forme comptera également mais ce ne sera pas l’élément essentiel (vous n’êtes pas graphiste)."
   },
   {
     "objectID": "evaluation.html#cest-quoi-une-controverse",
@@ -67,21 +67,21 @@
     "href": "seance2.html#ressources",
     "title": "4  Séance 2 - Représenter le monde : une longue histoire",
     "section": "4.4 Ressources",
-    "text": "4.4 Ressources\nA brief history of datavisualisation\nDes bonnes et des mauvaises pratiques\nMilestone project"
+    "text": "4.4 Ressources\nA brief history of datavisualisation\nDes bonnes et des mauvaises pratiques\nMilestone project\nLes corrélations et causalités hasardeuses"
   },
   {
     "objectID": "seance3.html#activités",
     "href": "seance3.html#activités",
     "title": "5  Séance 3",
     "section": "5.2 Activités",
-    "text": "5.2 Activités\nExercice cartographie\nhttps://data.opendatasoft.com/explore/dataset/224400028_nb-beneficiaires-revenu-solidarite-active-par-commune%40loireatlantique/table/?disjunctive.libelle&sort=annee\nhttps://datarmor.cotesdarmor.fr/applications/capacite-daccueil-des-assistants-maternels-par-commune-dans-les-cotes-darmor-en-2017"
+    "text": "5.2 Activités\n\n5.2.1 Exercice de représentation statistique\nAtelier sur les résultats de l’élection présidentielle de 2022\n\nLes données : https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles\nL’outil de création graphique : https://www.datawrapper.de/\n\n\n\n5.2.2 Exercice cartographie\nLa datavisualisation proposée par le site \n\nLes données : https://datarmor.cotesdarmor.fr/applications/capacite-daccueil-des-assistants-maternels-par-commune-dans-les-cotes-darmor-en-2017\nL’outil de création cartographique : https://www.datawrapper.de/"
   },
   {
     "objectID": "seance3.html#ressources",
     "href": "seance3.html#ressources",
     "title": "5  Séance 3",
     "section": "5.3 Ressources",
-    "text": "5.3 Ressources\nhttps://www.canal-u.tv/chaines/inria/desassemblons-le-numerique-episode1-plongee-au-coeur-des-donnees-0\nhttps://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/des-politiques-sociales-plus-efficientes-grace-aux-donnees\nhttps://www.resovilles.com/wp-content/uploads/2022/09/Data_et_quartiers-le_livre_blanc-web-19-09-light-1.pdf\nRapport data et territoire"
+    "text": "5.3 Ressources\n\n5.3.1 Choisir sa représentation visuelle\nFrom data to viz\nData Viz project\n\n\n5.3.2 Créer des dataviz\nDatawrapper\nRawgraph\nFlourish\n\n\n5.3.3 Créer des cartes\nKhartis\nUmap\nDatawrapper"
   },
   {
     "objectID": "references.html",
@@ -89,5 +89,19 @@
     "title": "Références & bibliographie",
     "section": "",
     "text": "Podcast et vidéos\n\nData Managers\nDataGen\nData Viz Today\nData Broadcast\nDavid McCandless, The Beauty of data visualization\nHans Rosling, Let My Dataset Change Your Mindset\nJeanne Pinder, What if all us Health Care Costs Were Transparent ?\nAnne Milgram, Why Smart Statistics are the key to Fighting Crime ?\nNewsletter FILWD\nSite Information is Beautiful\nChronologie dataviz, cartographie et autres (Milestones project)\nCartographie et dataviz historiques"
+  },
+  {
+    "objectID": "seance4.html#activités",
+    "href": "seance4.html#activités",
+    "title": "6  Séance 4",
+    "section": "6.2 Activités",
+    "text": "6.2 Activités"
+  },
+  {
+    "objectID": "seance4.html#ressources",
+    "href": "seance4.html#ressources",
+    "title": "6  Séance 4",
+    "section": "6.3 Ressources",
+    "text": "6.3 Ressources\nhttps://www.radiofrance.fr/franceculture/podcasts/le-biais-d-esther-duflo/justice-sociale-quand-les-algorithmes-de-la-caf-discriminent-les-plus-precaires-7842223\nhttps://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/des-politiques-sociales-plus-efficientes-grace-aux-donnees\nhttps://www.resovilles.com/wp-content/uploads/2022/09/Data_et_quartiers-le_livre_blanc-web-19-09-light-1.pdf\nRapport data et territoire"
   }
 ]

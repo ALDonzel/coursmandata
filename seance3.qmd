@@ -2,20 +2,60 @@
 
 ## Support de la séance
 
+![](images/seance3_28fevrier.pdf)
+
 ## Activités
 
-Exercice cartographie
+### Exercice de représentation statistique
 
-https://data.opendatasoft.com/explore/dataset/224400028_nb-beneficiaires-revenu-solidarite-active-par-commune%40loireatlantique/table/?disjunctive.libelle&sort=annee
+*Atelier sur les résultats de l'élection présidentielle de 2022*
 
-https://datarmor.cotesdarmor.fr/applications/capacite-daccueil-des-assistants-maternels-par-commune-dans-les-cotes-darmor-en-2017
+-   Les données : [https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles](https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielleshttps://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles)
+
+-   L'outil de création graphique : <https://www.datawrapper.de/>
+
+### Exercice cartographie
+
+La datavisualisation proposée par le site open data des Côtes d'Armor.
+
+![](images/capacite-daccueil-des-assistants-maternels-par-commune-dans-les-cotes-darmor-en-2017.png)
+
+-   Les données : [https://datarmor.cotesdarmor.fr/applications/capacite-daccueil-des-assistants-maternels-par-commune-dans-les-cotes-darmor-en-2017](https://datarmor.cotesdarmor.fr/applications/capacite-daccueil-des-assistants-maternels-par-commune-dans-les-cotes-darmor-en-2017https://datarmor.cotesdarmor.fr/applications/capacite-daccueil-des-assistants-maternels-par-commune-dans-les-cotes-darmor-en-2017)
+
+-   L'outil de création cartographique : <https://www.datawrapper.de/>
+
+## Point sur le projet final
+
+Cette semaine vous devez :
+
+-   Avoir constitué votre groupe ✅
+
+-   Avoir trouvé votre sujet ✅
+
+-   Avoir votre problématique et avoir identifié les premiers acteurs du sujet (ainsi que leur position) ✅
+
+Pour la semaine prochaine : vous devez avoir une première maquette de votre projet. n'hésitez pas à me l'envoyer pour avis.
 
 ## Ressources
 
-https://www.canal-u.tv/chaines/inria/desassemblons-le-numerique-episode1-plongee-au-coeur-des-donnees-0
+### Choisir sa représentation visuelle
 
-https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/des-politiques-sociales-plus-efficientes-grace-aux-donnees
+[From data to viz](https://www.data-to-viz.com/)
 
-https://www.resovilles.com/wp-content/uploads/2022/09/Data_et_quartiers-le_livre_blanc-web-19-09-light-1.pdf
+[Data Viz project](https://datavizproject.com/)
 
-Rapport data et territoire
+### Créer des dataviz
+
+[Datawrapper](https://www.datawrapper.de/)
+
+[Rawgraph](https://www.rawgraphs.io/)
+
+[Flourish](https://flourish.studio/)
+
+### Créer des cartes
+
+[Khartis](https://www.sciencespo.fr/cartographie/khartis/)
+
+[Umap](https://umap.openstreetmap.fr/fr/)
+
+[Datawrapper](https://www.datawrapper.de/)
