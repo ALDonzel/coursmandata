@@ -1,8 +1,8 @@
-# Séance 3
+# Séance 3 - Exploiter ses données
 
 ## Support de la séance
 
-![](images/seance3_28fevrier.pdf)
+![](images/seance_3.pdf)
 
 ## Activités
 

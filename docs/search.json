@@ -53,7 +53,7 @@
     "href": "seance2.html#activités",
     "title": "4  Séance 2 - Représenter le monde : une longue histoire",
     "section": "4.2 Activités",
-    "text": "4.2 Activités\n\n4.2.1 Activité 1\nA votre avis de quand date la plus ancienne représentation graphique d’un phénomène ?\n\n\n4.2.2 Activité 2\nFormer 4 groupes, chaque groupe va analyser une des datavisualisations qui se trouvent ci-dessous.\nVous allez avoir 45 minutes pour l’analyse, sur les points suivants :\n\nPrésentez l’auteur·ice de cette datavisualisation ?\nDe quand date cette datavisualisation et dans quel contexte a t elle été créée ?\nQue cherche à nous dire cette datavisualisation ?\nQuel est le mode de représentation choisie ?\nQuelles sont les données d’origine ?\nQu’est-ce qui vous interpelle ou étonne ?\n\nPour cela : complétez, en groupe, le pad\n\nFlorence Nightingale, Public domain, via Wikimedia Commons : “Diagram of the causes of mortality in the army in the East” (1858) by Florence Nightingale, a colored pie chart to illustrate causes of death in the British Army\n\nW.E.B DuBois, African American Photographs Assembled for 1900 Paris Exposition, Public domain, via Wikimedia Commons : Graph shows marital status by age of African Americans compared to Germans\n\nJohn Snow, Public domain, via Wikimedia Commons : Map of the book “On the Mode of Communication of Cholera” by John Snow, originally published in 1854 by C.F. Cheffins, Lith, Southhampton Buildings, London, England\nCharles Joseph Minard, Public domain, via Wikimedia Commons : Carte figurative des pertes successives en hommes de l’Armée française dans la campagne de Russie en 1812-1813\n\n\n\n\n4.2.3 Activité 3\nEn groupe, analisez les visualisations présentes sur le pad, qu’en pensez-vous ?"
+    "text": "4.2 Activités\n\n4.2.1 Activité 1\nA votre avis de quand date la plus ancienne représentation graphique d’un phénomène ?\n\n\n4.2.2 Activité 2\nFormer 4 groupes, chaque groupe va analyser une des datavisualisations qui se trouvent ci-dessous.\nVous allez avoir 45 minutes pour l’analyse, sur les points suivants :\n\nPrésentez l’auteur·ice de cette datavisualisation ?\nDe quand date cette datavisualisation et dans quel contexte a t elle été créée ?\nQue cherche à nous dire cette datavisualisation ?\nQuel est le mode de représentation choisie ?\nQuelles sont les données d’origine ?\nQu’est-ce qui vous interpelle ou étonne ?\n\nPour cela : complétez, en groupe, le pad\n\nFlorence Nightingale, Public domain, via Wikimedia Commons : “Diagram of the causes of mortality in the army in the East” (1858) by Florence Nightingale, a colored pie chart to illustrate causes of death in the British Army\n\nW.E.B DuBois, African American Photographs Assembled for 1900 Paris Exposition, Public domain, via Wikimedia Commons : Graph shows marital status by age of African Americans compared to Germans\n\nJohn Snow, Public domain, via Wikimedia Commons : Map of the book “On the Mode of Communication of Cholera” by John Snow, originally published in 1854 by C.F. Cheffins, Lith, Southhampton Buildings, London, England\nCharles Joseph Minard, Public domain, via Wikimedia Commons : Carte figurative des pertes successives en hommes de l’Armée française dans la campagne de Russie en 1812-1813\n\n\n\n\n4.2.3 Activité 3\nEn groupe, analysez les visualisations présentes sur le pad, qu’en pensez-vous ?"
   },
   {
     "objectID": "seance2.html#point-sur-le-projet-final",
@@ -72,16 +72,16 @@
   {
     "objectID": "seance3.html#activités",
     "href": "seance3.html#activités",
-    "title": "5  Séance 3",
+    "title": "5  Séance 3 - Exploiter ses données",
     "section": "5.2 Activités",
-    "text": "5.2 Activités\n\n5.2.1 Exercice de représentation statistique\nAtelier sur les résultats de l’élection présidentielle de 2022\n\nLes données : https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles\nL’outil de création graphique : https://www.datawrapper.de/\n\n\n\n5.2.2 Exercice cartographie\nLa datavisualisation proposée par le site \n\nLes données : https://datarmor.cotesdarmor.fr/applications/capacite-daccueil-des-assistants-maternels-par-commune-dans-les-cotes-darmor-en-2017\nL’outil de création cartographique : https://www.datawrapper.de/"
+    "text": "5.2 Activités\n\n5.2.1 Exercice de représentation statistique\nAtelier sur les résultats de l’élection présidentielle de 2022\n\nLes données : https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles\nL’outil de création graphique : https://www.datawrapper.de/\n\n\n\n5.2.2 Exercice cartographie\nLa datavisualisation proposée par le site open data des Côtes d’Armor.\n\n\nLes données : https://datarmor.cotesdarmor.fr/applications/capacite-daccueil-des-assistants-maternels-par-commune-dans-les-cotes-darmor-en-2017\nL’outil de création cartographique : https://www.datawrapper.de/"
   },
   {
     "objectID": "seance3.html#ressources",
     "href": "seance3.html#ressources",
-    "title": "5  Séance 3",
-    "section": "5.3 Ressources",
-    "text": "5.3 Ressources\n\n5.3.1 Choisir sa représentation visuelle\nFrom data to viz\nData Viz project\n\n\n5.3.2 Créer des dataviz\nDatawrapper\nRawgraph\nFlourish\n\n\n5.3.3 Créer des cartes\nKhartis\nUmap\nDatawrapper"
+    "title": "5  Séance 3 - Exploiter ses données",
+    "section": "5.4 Ressources",
+    "text": "5.4 Ressources\n\n5.4.1 Choisir sa représentation visuelle\nFrom data to viz\nData Viz project\n\n\n5.4.2 Créer des dataviz\nDatawrapper\nRawgraph\nFlourish\n\n\n5.4.3 Créer des cartes\nKhartis\nUmap\nDatawrapper"
   },
   {
     "objectID": "references.html",
@@ -102,6 +102,13 @@
     "href": "seance4.html#ressources",
     "title": "6  Séance 4",
     "section": "6.3 Ressources",
-    "text": "6.3 Ressources\nhttps://www.radiofrance.fr/franceculture/podcasts/le-biais-d-esther-duflo/justice-sociale-quand-les-algorithmes-de-la-caf-discriminent-les-plus-precaires-7842223\nhttps://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/des-politiques-sociales-plus-efficientes-grace-aux-donnees\nhttps://www.resovilles.com/wp-content/uploads/2022/09/Data_et_quartiers-le_livre_blanc-web-19-09-light-1.pdf\nRapport data et territoire"
+    "text": "6.3 Ressources\nhttps://www.radiofrance.fr/franceculture/podcasts/recits-d-enquete/recits-d-enquete-chronique-du-samedi-09-decembre-2023-7389909\nhttps://www.radiofrance.fr/franceculture/podcasts/le-biais-d-esther-duflo/justice-sociale-quand-les-algorithmes-de-la-caf-discriminent-les-plus-precaires-7842223\nhttps://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/des-politiques-sociales-plus-efficientes-grace-aux-donnees\nhttps://www.resovilles.com/wp-content/uploads/2022/09/Data_et_quartiers-le_livre_blanc-web-19-09-light-1.pdf\nRapport data et territoire"
+  },
+  {
+    "objectID": "seance3.html#point-sur-le-projet-final",
+    "href": "seance3.html#point-sur-le-projet-final",
+    "title": "5  Séance 3 - Exploiter ses données",
+    "section": "5.3 Point sur le projet final",
+    "text": "5.3 Point sur le projet final\nCette semaine vous devez :\n\nAvoir constitué votre groupe ✅\nAvoir trouvé votre sujet ✅\nAvoir votre problématique et avoir identifié les premiers acteurs du sujet (ainsi que leur position) ✅\n\nPour la semaine prochaine : vous devez avoir une première maquette de votre projet. n’hésitez pas à me l’envoyer pour avis."
   }
 ]
