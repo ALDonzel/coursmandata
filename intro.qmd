@@ -31,6 +31,5 @@
     2.  Enjeux du data management
     3.  Cycle de vie des données
     4.  Organisation interne
-    5.  Exercice critique des politiques publiques pilotées par la donnée
 
 5.  Séance 5 : Restitution des travaux de groupe

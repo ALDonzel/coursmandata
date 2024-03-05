@@ -2,16 +2,58 @@
 
 ## Support de la séance
 
+![](images/dataviz_coursUAPV_4.pdf)
+
 ## Activités
+
+**Exercice 1** - Quelles sont les données spécifiques des politiques sociales ? [Enregistrer vos réponses ici](https://digistorm.app/p/1860909)
+
+**Exercice 2** - Quelles sont les particularités des données sociales qui vont venir limiter ou complexifier le bon déroulement du cycle de vie ?
+
+**Exercice 3** - Où en sont les organisations publiques ? Rendez-vous sur la carte de l'[observatoire](https://odf-carto.netlify.app/?datami_tab=2&datami_view=map&datami_lon=2.03&datami_lat=47.697572&datami_zoom=4.9) :
+
+-   Quel(s) type(s) d'organisation(s) sont susceptibles d'avoir le plus de données sur les politiques sociales ?
+
+-   Sélectionnez une collectivité de ce type
+
+-   Explorez ses publications ?
+
+-   Que remarquez vous ?
+
+**Exercice 4** - Comment sont organisées les structures publiques pour gérer la donnée ? Rendez-vous sur l'[observatoire](https://enquete.data-publica.eu/rapport/Rapport.html#2_Manager_ses_donn%C3%A9es_:_quelle_organisation,_quels_outils_). Regardez le 2.2 Des fonctions consacrées à la donnée encore relativement rares ,quelles conclusions en tirez vous ?
+
+**Exercice 5** - Les catégories d'usage
+
+-   Observer les politiques publiques
+
+-   Evaluer et piloter les politiques publiques
+
+-   Contrôler les politiques publiques
+
+Rendez-vous sur le [pad](https://digipad.app/p/681324/27dd1798014d1) pour comprendre les différences entre ces différents usages de données.
 
 ## Ressources
 
-https://www.radiofrance.fr/franceculture/podcasts/recits-d-enquete/recits-d-enquete-chronique-du-samedi-09-decembre-2023-7389909
+### Données et politiques publiques
 
-https://www.radiofrance.fr/franceculture/podcasts/le-biais-d-esther-duflo/justice-sociale-quand-les-algorithmes-de-la-caf-discriminent-les-plus-precaires-7842223
+[Rapport data et territoires](https://www.vie-publique.fr/rapport/291763-rapport-de-la-mission-data-et-territoires)
 
-https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/des-politiques-sociales-plus-efficientes-grace-aux-donnees
+[Des politiques sociales plus efficientes grâce aux données](https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/des-politiques-sociales-plus-efficientes-grace-aux-donnees)
 
-https://www.resovilles.com/wp-content/uploads/2022/09/Data_et_quartiers-le_livre_blanc-web-19-09-light-1.pdf
+[Livre blanc data et quartiers](https://www.resovilles.com/wp-content/uploads/2022/09/Data_et_quartiers-le_livre_blanc-web-19-09-light-1.pdf)
 
-Rapport data et territoire
+### Sur les données et les algo de la CAF
+
+-   [Algorithme de la CNAF : quand le code discrimine](https://www.radiofrance.fr/franceculture/podcasts/recits-d-enquete/recits-d-enquete-chronique-du-samedi-09-decembre-2023-7389909)
+
+-   [Justice sociale : quand les algorithmes de la CAF discriminent les plus précaires](https://www.radiofrance.fr/franceculture/podcasts/le-biais-d-esther-duflo/justice-sociale-quand-les-algorithmes-de-la-caf-discriminent-les-plus-precaires-7842223)
+
+### Observatoires et plateformes de données
+
+-   <https://data.drees.solidarites-sante.gouv.fr/pages/accueil/>
+
+-   <https://www.territoiredebelfort.fr/observatoire-social-departemental>
+
+-   <https://assurance-maladie.ameli.fr/etudes-et-donnees/donnees/liste-bases-de-donnees-open-data>
+
+-   <https://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/perte-dautonomie-pratiques-inchangees-108-000-seniors-de-plus>
