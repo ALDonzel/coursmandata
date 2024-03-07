@@ -11,7 +11,7 @@
     "href": "intro.html",
     "title": "1  Programme",
     "section": "",
-    "text": "Séance 4 : Observer, piloter, contrôler\n\nPanorama du management des données dans le secteur public (en particulier les CD)\nEnjeux du data management\nCycle de vie des données\nOrganisation interne\nExercice critique des politiques publiques pilotées par la donnée\n\nSéance 5 : Restitution des travaux de groupe"
+    "text": "Séance 4 : Observer, piloter, contrôler\n\nPanorama du management des données dans le secteur public (en particulier les CD)\nEnjeux du data management\nCycle de vie des données\nOrganisation interne\n\nSéance 5 : Restitution des travaux de groupe"
   },
   {
     "objectID": "evaluation.html",
@@ -93,14 +93,14 @@
   {
     "objectID": "seance4.html#activités",
     "href": "seance4.html#activités",
-    "title": "6  Séance 4",
+    "title": "6  Séance 4 - Management de la donnée dans les organisations",
     "section": "6.2 Activités",
-    "text": "6.2 Activités\nExercice 1 - Quelles sont les données spécifiques des politiques sociales ? Pad de réponse\nExercice 2 - Quelles sont les particularités des données sociales qui vont venir limiter ou complexifier le bon déroulement du cycle de vie ?\nExercice 3 - Où en sont les organisations publiques ? Rendez-vous sur la carte de l’observatoire :\n\nQuel(s) type(s) d’organisation(s) sont susceptibles d’avoir le plus de données sur les politiques sociales ?\nSélectionnez une collectivité de ce type\nExplorez ses publications ?\nQue remarquez vous ?\n\nExercice 4 - Comment sont organisées les structures publiques pour gérer la donnée ? Rendez-vous sur l’observatoire. Regardez le 2.2 Des fonctions consacrées à la donnée encore relativement rares ,quelles conclusions en tirez vous ?\nExercice 5 - Les catégories d’usage\n\nObserver les politiques publiques\nEvaluer et piloter les politiques publiques\nContrôler les politiques publiques\n\nRendez-vous sur le pad pour comprendre les différences entre ces différents usages de données."
+    "text": "6.2 Activités\nExercice 1 - Quelles sont les données spécifiques des politiques sociales ? Enregistrer vos réponses ici\nExercice 2 - Quelles sont les particularités des données sociales qui vont venir limiter ou complexifier le bon déroulement du cycle de vie ?\nExercice 3 - Où en sont les organisations publiques ? Rendez-vous sur la carte de l’observatoire :\n\nQuel(s) type(s) d’organisation(s) sont susceptibles d’avoir le plus de données sur les politiques sociales ?\nSélectionnez une collectivité de ce type\nExplorez ses publications ?\nQue remarquez vous ?\n\nExercice 4 - Comment sont organisées les structures publiques pour gérer la donnée ? Rendez-vous sur l’observatoire. Regardez le 2.2 Des fonctions consacrées à la donnée encore relativement rares ,quelles conclusions en tirez vous ?\nExercice 5 - Les catégories d’usage\n\nObserver les politiques publiques\nEvaluer et piloter les politiques publiques\nContrôler les politiques publiques\n\nRendez-vous sur le pad pour comprendre les différences entre ces différents usages de données."
   },
   {
     "objectID": "seance4.html#ressources",
     "href": "seance4.html#ressources",
-    "title": "6  Séance 4",
+    "title": "6  Séance 4 - Management de la donnée dans les organisations",
     "section": "6.3 Ressources",
     "text": "6.3 Ressources\n\n6.3.1 Données et politiques publiques\nRapport data et territoires\nDes politiques sociales plus efficientes grâce aux données\nLivre blanc data et quartiers\n\n\n6.3.2 Sur les données et les algo de la CAF\n\nAlgorithme de la CNAF : quand le code discrimine\nJustice sociale : quand les algorithmes de la CAF discriminent les plus précaires\n\n\n\n6.3.3 Observatoires et plateformes de données\n\nhttps://data.drees.solidarites-sante.gouv.fr/pages/accueil/\nhttps://www.territoiredebelfort.fr/observatoire-social-departemental\nhttps://assurance-maladie.ameli.fr/etudes-et-donnees/donnees/liste-bases-de-donnees-open-data\nhttps://drees.solidarites-sante.gouv.fr/publications/etudes-et-resultats/perte-dautonomie-pratiques-inchangees-108-000-seniors-de-plus"
   },
@@ -110,5 +110,19 @@
     "title": "5  Séance 3 - Exploiter ses données",
     "section": "5.3 Point sur le projet final",
     "text": "5.3 Point sur le projet final\nCette semaine vous devez :\n\nAvoir constitué votre groupe ✅\nAvoir trouvé votre sujet ✅\nAvoir votre problématique et avoir identifié les premiers acteurs du sujet (ainsi que leur position) ✅\n\nPour la semaine prochaine : vous devez avoir une première maquette de votre projet. n’hésitez pas à me l’envoyer pour avis."
+  },
+  {
+    "objectID": "seance5.html",
+    "href": "seance5.html",
+    "title": "7  Séance 5 - Séance de restitution des projets",
+    "section": "",
+    "text": "Sur quoi serez-vous notés ?\n\nSur votre infographie (50% de la note) :\n\nLa problématique : pourquoi ce sujet est intéressant à éclairer avec de la donnée ?\nPrésentation des acteurs\nPrésentation du sujet de débat\nIntégration des données à la présentation\n\nSur l’oral (25%) :\n\nClarté de la présentation, répartition de la parole, respect du temps\nLien avec le cours\n\nSur l’assiduité (sauf absence excusée) et la participation (25%)"
+  },
+  {
+    "objectID": "seance5.html#questionnaire",
+    "href": "seance5.html#questionnaire",
+    "title": "7  Séance 5 - Séance de restitution des projets",
+    "section": "7.2 Questionnaire",
+    "text": "7.2 Questionnaire\n❓Questionnaire de fin de cours : https://airtable.com/appgiF9c38kdpbem4/pagP1eNDhROGYVzwv/form"
   }
 ]
